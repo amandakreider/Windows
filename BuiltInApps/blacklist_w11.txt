@@ -44,5 +44,5 @@ Microsoft.WindowsTerminal
 #Microsoft.YourPhone
 #Microsoft.ZuneMusic
 #Microsoft.ZuneVideo
-#Microsoft.Teams
+#MSTeams
 MicrosoftWindows.Client.WebExperience
