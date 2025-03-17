@@ -9,7 +9,7 @@ Microsoft.DesktopAppInstaller
 Microsoft.GetHelp
 Microsoft.Getstarted
 Microsoft.HEIFImageExtension
-Microsoft.MicrosoftEdge.Stable
+#Microsoft.MicrosoftEdge.Stable
 #Microsoft.MicrosoftOfficeHub
 #Microsoft.MicrosoftSolitaireCollection
 Microsoft.MicrosoftStickyNotes
